@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 inventro – Smart Inventory Management App
 
 > Find it nearby. Instantly.
@@ -128,3 +129,7 @@ npm run dev
 - **MongoDB Atlas** — Database
 - **JWT** — Auth tokens
 - **Render** — Backend hosting
+=======
+# Inventro
+Inventro is a hyperlocal inventory and price comparison platform that connects customers with nearby shops, enabling real-time product discovery, price comparison and seamless ordering.
+>>>>>>> 74fe2872abce524487484bd15b02d7b6dbc22be6
