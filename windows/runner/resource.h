@@ -1,0 +1,4 @@
+#ifndef RUNNER_RESOURCES_H_
+#define RUNNER_RESOURCES_H_
+#define IDI_APP_ICON 101
+#endif
